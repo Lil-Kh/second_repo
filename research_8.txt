@@ -1,0 +1,9 @@
+git fetch --all -> miangamic bolor branchery fetch en arvum  bolor remoteneric
+
+fetch aneluc heto el petq a pull anel, vortev erb fetch enq anum, inqy update chi anum mer local branchery, 
+u ete uzum enq update ani mer local branchery, petq a pull anenq
+
+ete fetch anenq, heto merge, kstananq git pull -i effecty
+
+Fetch exac contenty vonc vor merge chexac lini, u chi azdum mer local ashxatanqi vra,
+heto checkout enq linum u merge enq anum mer locali het
